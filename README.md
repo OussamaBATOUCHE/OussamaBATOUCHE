@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%" alt="header banner" />
+<img src="banner-header.svg" width="100%" alt="header banner" />
 
 <a href="https://oussamabatouche.com">
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=22&pause=1000&color=00E0A1&center=true&vCenter=true&width=600&lines=Building+AI+for+the+Quantum+era+%F0%9F%9A%80;Turning+messy+clinical+data+into+trustworthy+models+%F0%9F%A7%AC;PhD+%C2%B7+Digital+Pathology+%C2%B7+Computer+Vision+%F0%9F%94%AC" alt="typing" />
@@ -132,6 +132,6 @@ AI assistant supporting clinical decision-making
 
 <i>💻 code to be excited</i>
 
-<img src="assets/banner-footer.svg" width="100%" alt="footer banner" />
+<img src="banner-footer.svg" width="100%" alt="footer banner" />
 
 </div>
