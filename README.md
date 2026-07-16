@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00C2FF,100:00E0A1&height=220&section=header&text=Oussama%20Batouche&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header banner" />
+<img src="assets/banner-header.svg" width="100%" alt="header banner" />
 
 <a href="https://oussamabatouche.com">
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=22&pause=1000&color=00E0A1&center=true&vCenter=true&width=600&lines=Building+AI+for+the+Quantum+era+%F0%9F%9A%80;Turning+messy+clinical+data+into+trustworthy+models+%F0%9F%A7%AC;PhD+%C2%B7+Digital+Pathology+%C2%B7+Computer+Vision+%F0%9F%94%AC" alt="typing" />
@@ -132,6 +132,6 @@ AI assistant supporting clinical decision-making
 
 <i>💻 code to be excited</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0A1,50:00C2FF,100:FF6B35&height=100&section=footer" width="100%" />
+<img src="assets/banner-footer.svg" width="100%" alt="footer banner" />
 
 </div>
