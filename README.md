@@ -77,8 +77,9 @@ My work focuses on computational pathology and clinical outcome modeling for pro
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaBatouche&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaBatouche&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+  <img src="https://img.shields.io/github/followers/OussamaBatouche?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/OussamaBatouche?label=Stars&style=flat-square&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OussamaBatouche&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" alt="Public Repos" />
 </p>
 
 ---
