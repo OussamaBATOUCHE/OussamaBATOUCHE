@@ -1,0 +1,17 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" />
+      <stop offset="50%" stop-color="#00C2FF" />
+      <stop offset="100%" stop-color="#00E0A1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#grad)" />
+
+  <path d="M0,150 C150,190 350,120 600,145 C850,170 1050,110 1200,140 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08" />
+  <path d="M0,180 C200,150 400,205 650,180 C900,155 1050,195 1200,170 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.10" />
+
+  <text x="600" y="105" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Oussama Batouche</text>
+  <text x="600" y="148" text-anchor="middle" font-family="'Trebuchet MS', Verdana, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#ffffff" opacity="0.92">Data Scientist &amp; Software Engineer</text>
+</svg>
