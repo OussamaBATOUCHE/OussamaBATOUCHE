@@ -1,23 +1,27 @@
-<h1 align="center">Hi, I'm Oussama Batouche 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Scientist &amp; Software Engineer</b> · Building the next generation of AI for the Quantum era
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00C2FF,100:00E0A1&height=220&section=header&text=Oussama%20Batouche&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header banner" />
+
+<a href="https://oussamabatouche.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=500&size=22&pause=1000&color=00E0A1&center=true&vCenter=true&width=600&lines=Building+AI+for+the+Quantum+era+%F0%9F%9A%80;Turning+messy+clinical+data+into+trustworthy+models+%F0%9F%A7%AC;PhD+%C2%B7+Digital+Pathology+%C2%B7+Computer+Vision+%F0%9F%94%AC" alt="typing" />
+</a>
+
+<p>
+  <a href="https://oussamabatouche.com"><img src="https://img.shields.io/badge/🌐_Website-FF6B35?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oussama-batouche"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://orcid.org/0000-0003-4181-9891"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://oussamabatouche.com">🌐 Website</a> ·
-  <a href="https://www.linkedin.com/in/oussama-batouche">💼 LinkedIn</a> ·
-  <a href="https://orcid.org/0000-0003-4181-9891">🔬 ORCID</a> ·
-  <a href="https://scholar.google.com">📚 Google Scholar</a>
+<p>
+  <img src="https://img.shields.io/badge/📍_Helsinki-Finland-00C2FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/QuTwo-Member%20of%20Technical%20Staff-FF5F9E?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PhD-University%20of%20Helsinki-FFC947?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Helsinki-Finland-005EB8?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/QuTwo-Member%20of%20Technical%20Staff-6E44FF?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/PhD-University%20of%20Helsinki-D0021B?style=flat-square" alt="PhD" />
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 🧠 About Me
 
@@ -28,28 +32,33 @@ I'm a data scientist and software engineer based in Helsinki, working at the int
 - 🔬 Previously a **Data Scientist at HUCC** (Helsinki University Central Hospital), building computational tools for digital pathology and real-world clinical data.
 - 🧬 I care about turning messy, real-world medical data into models that clinicians can actually trust.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 🛠️ Tech &amp; Focus Areas
 
-**Languages & Tools**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,r,ts,js,pytorch,opencv,react,jupyter&theme=dark" />
+
+</div>
 
 **What I work on**
 
-`Healthcare AI` · `Machine & Deep Learning` · `Digital Pathology` · `Biostatistics & Survival Analysis` · `Computer Vision` · `Real-World Clinical Data` · `Software Engineering`
+<div align="center">
+
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-FF6B35?style=for-the-badge&labelColor=1a1a2e)
+![Deep Learning](https://img.shields.io/badge/Machine_%26_Deep_Learning-00C2FF?style=for-the-badge&labelColor=1a1a2e)
+![Digital Pathology](https://img.shields.io/badge/Digital_Pathology-00E0A1?style=for-the-badge&labelColor=1a1a2e)
+![Biostatistics](https://img.shields.io/badge/Biostatistics_%26_Survival_Analysis-FF5F9E?style=for-the-badge&labelColor=1a1a2e)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFC947?style=for-the-badge&labelColor=1a1a2e)
+![Clinical Data](https://img.shields.io/badge/Real--World_Clinical_Data-FF6B35?style=for-the-badge&labelColor=1a1a2e)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-00C2FF?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
 
 I've trained deep learning models on the **LUMI supercomputer** and build end-to-end pipelines — from raw microscopy images to production-ready classifiers.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 🔬 Selected Research
 
@@ -62,32 +71,67 @@ My work focuses on computational pathology and clinical outcome modeling for pro
 
 📖 Full publication list on my [website](https://oussamabatouche.com) and [ORCID](https://orcid.org/0000-0003-4181-9891).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| **[HistoEncoder](https://github.com/OussamaBatouche/HistoEncoder)** | Foundation model for prostate cancer digital pathology |
-| **[Lemonade](https://github.com/lemonade-sdk/lemonade)** | Contributor to AMD's Lemonade SDK for local LLM serving and inference |
-| **[Prostate-Cancer-AI-Assistant](https://github.com/OussamaBATOUCHE/prostate_cancer_ai_assistant)** | AI assistant supporting prostate cancer clinical decision-making |
+<div align="center">
 
----
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h4>🧬 HistoEncoder</h4>
+Foundation model for prostate cancer digital pathology
+<br/><br/>
+<a href="https://github.com/OussamaBatouche/HistoEncoder"><img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>🍋 Lemonade</h4>
+Contributor to AMD's SDK for local LLM serving and inference
+<br/><br/>
+<a href="https://github.com/lemonade-sdk/lemonade"><img src="https://img.shields.io/badge/View_Repo-00C2FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>🩺 PCC</h4>
+AI assistant supporting clinical decision-making
+<br/><br/>
+<a href="https://github.com/OussamaBATOUCHE/prostate_cancer_ai_assistant"><img src="https://img.shields.io/badge/View_Repo-00E0A1?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/OussamaBatouche?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/OussamaBatouche?label=Stars&style=flat-square&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OussamaBatouche&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" alt="Public Repos" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaBatouche&theme=radical&hide_border=true&background=1a1a2e&ring=FF6B35&fire=FF5F9E&currStreakLabel=00E0A1" height="165" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/OussamaBatouche?label=Followers&style=for-the-badge&logo=github&color=FF6B35&labelColor=1a1a2e" />
+<img src="https://img.shields.io/github/stars/OussamaBatouche?label=Stars&style=for-the-badge&logo=github&color=00C2FF&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OussamaBatouche&label=Public%20Repos&query=public_repos&style=for-the-badge&color=00E0A1&labelColor=1a1a2e" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:00C2FF&height=3&width=100%25" width="100%" />
 
 ### 📫 Get in Touch
 
-- 🌐 **Website:** [oussamabatouche.com](https://oussamabatouche.com)
-- 💼 **LinkedIn:** [in/oussama-batouche](https://www.linkedin.com/in/oussama-batouche)
-- 🔬 **ORCID:** [0000-0003-4181-9891](https://orcid.org/0000-0003-4181-9891)
+<div align="center">
 
-<p align="center"><i>💻 code to be excited</i></p>
+<a href="https://oussamabatouche.com"><img src="https://img.shields.io/badge/🌐_oussamabatouche.com-FF6B35?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/oussama-batouche"><img src="https://img.shields.io/badge/in/oussama--batouche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://orcid.org/0000-0003-4181-9891"><img src="https://img.shields.io/badge/0000--0003--4181--9891-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>💻 code to be excited</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0A1,50:00C2FF,100:FF6B35&height=100&section=footer" width="100%" />
+
+</div>
