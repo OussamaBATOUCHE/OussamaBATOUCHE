@@ -23,11 +23,19 @@ I'm an applied scientist (AI/ML) based in Helsinki, working at the intersection 
 
 ## Focus Areas
 
+<div align="center">
+
 `Artificial Intelligence` &nbsp;·&nbsp; `Machine & Deep Learning` &nbsp;·&nbsp; `Statistics` &nbsp;·&nbsp; `AI for Healthcare` &nbsp;·&nbsp; `Digital Pathology` &nbsp;·&nbsp; `Biostatistics & Survival Analysis` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Software Engineering`
+
+</div>
+
+<div align="center">
 
 **Working with**
 
 <img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-172033?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/pandas-172033?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Jupyter-172033?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/R-172033?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-172033?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Ansible-172033?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/NVIDIA-172033?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" /> <img src="https://img.shields.io/badge/AMD-172033?style=flat-square&logo=amd&logoColor=white" alt="AMD" />
+
+</div>
 
 
 <br/>
