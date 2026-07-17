@@ -33,7 +33,7 @@ I'm an applied scientist (AI/ML) based in Helsinki, working at the intersection 
 
 **Working with**
 
-<img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-172033?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/pandas-172033?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Jupyter-172033?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/R-172033?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-172033?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Ansible-172033?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/NVIDIA-172033?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" /> <img src="https://img.shields.io/badge/AMD-172033?style=flat-square&logo=amd&logoColor=white" alt="AMD" />
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=white" alt="Python" /></a> <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a> <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-172033?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a> <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /></a> <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-172033?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /></a> <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-172033?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></a> <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-172033?style=flat-square&logo=r&logoColor=white" alt="R" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a> <a href="https://react.dev"><img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=white" alt="React" /></a> <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></a> <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a> <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-172033?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a> <a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-172033?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></a> <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=white" alt="Git" /></a> <a href="https://www.nvidia.com"><img src="https://img.shields.io/badge/NVIDIA-172033?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" /></a> <a href="https://www.amd.com"><img src="https://img.shields.io/badge/AMD-172033?style=flat-square&logo=amd&logoColor=white" alt="AMD" /></a>
 
 </div>
 
@@ -49,7 +49,7 @@ My work centres on computational pathology and clinical outcome modelling for pr
 - **Computational pathology-based classifier for predicting Gleason grade group upgrading** · *Journal of Clinical Oncology (ASCO)*
 - **A joint frailty model for time-to-treatment and biochemical recurrence in prostate cancer** · *Informatics in Medicine Unlocked, 2025*
 
-Full publication list on my [website](https://oussamabatouche.com) and [ORCID](https://orcid.org/0000-0003-4181-9891).
+Full publication list on my [website](https://oussamabatouche.com/publications) and [ORCID](https://orcid.org/0000-0003-4181-9891).
 
 **In collaboration with**
 
@@ -73,11 +73,11 @@ Full publication list on my [website](https://oussamabatouche.com) and [ORCID](h
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>University of Helsinki</b></sub></td>
-    <td align="center"><sub><b>Aalto University</b></sub></td>
-    <td align="center"><sub><b>Emory University</b></sub></td>
-    <td align="center"><sub><b>Georgia Tech</b></sub></td>
-    <td align="center"><sub><b>KAUST</b></sub></td>
+    <td align="center"><sub><b>University of Helsinki</b></sub><br/><sub>Helsinki, Finland</sub></td>
+    <td align="center"><sub><b>Aalto University</b></sub><br/><sub>Espoo, Finland</sub></td>
+    <td align="center"><sub><b>Emory University</b></sub><br/><sub>Atlanta, GA, USA</sub></td>
+    <td align="center"><sub><b>Georgia Tech</b></sub><br/><sub>Atlanta, GA, USA</sub></td>
+    <td align="center"><sub><b>KAUST</b></sub><br/><sub>Thuwal, Saudi Arabia</sub></td>
   </tr>
 </table>
 <table>
@@ -96,10 +96,10 @@ Full publication list on my [website](https://oussamabatouche.com) and [ORCID](h
     </td>
   </tr>
   <tr>
-    <td align="center"><sub><b>University of Oxford</b></sub></td>
-    <td align="center"><sub><b>University of Cambridge</b></sub></td>
-    <td align="center"><sub><b>Université de Bordeaux</b></sub></td>
-    <td align="center"><sub><b>Shin-yurigaoka General Hospital</b></sub></td>
+    <td align="center"><sub><b>University of Oxford</b></sub><br/><sub>Oxford, United Kingdom</sub></td>
+    <td align="center"><sub><b>University of Cambridge</b></sub><br/><sub>Cambridge, United Kingdom</sub></td>
+    <td align="center"><sub><b>Université de Bordeaux</b></sub><br/><sub>Bordeaux, France</sub></td>
+    <td align="center"><sub><b>Shin-yurigaoka General Hospital</b></sub><br/><sub>Kawasaki, Japan</sub></td>
   </tr>
 </table>
 </div>
