@@ -48,46 +48,50 @@ Full publication list on my [website](https://oussamabatouche.com) and [ORCID](h
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="170">
-      <a href="https://www.helsinki.fi"><img src="assets/logos/helsinki.png" height="72" alt="University of Helsinki" /></a><br/><br/>
-      <sub><b>University of Helsinki</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.helsinki.fi"><img src="assets/logos/helsinki.png" height="64" alt="University of Helsinki" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.aalto.fi"><img src="assets/logos/aalto.png" height="72" alt="Aalto University" /></a><br/><br/>
-      <sub><b>Aalto University</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.aalto.fi"><img src="assets/logos/aalto.png" height="60" alt="Aalto University" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.emory.edu"><img src="assets/logos/emory.png" height="72" alt="Emory University" /></a><br/><br/>
-      <sub><b>Emory University</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.emory.edu"><img src="assets/logos/emory.png" height="56" alt="Emory University" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.gatech.edu"><img src="assets/logos/gatech.png" height="72" alt="Georgia Tech" /></a><br/><br/>
-      <sub><b>Georgia Tech</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.gatech.edu"><img src="assets/logos/gatech.png" height="44" alt="Georgia Tech" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.kaust.edu.sa"><img src="assets/logos/kaust.png" height="60" alt="KAUST" /></a><br/><br/>
-      <sub><b>KAUST</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.kaust.edu.sa"><img src="assets/logos/kaust.png" height="64" alt="KAUST" /></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>University of Helsinki</b></sub></td>
+    <td align="center"><sub><b>Aalto University</b></sub></td>
+    <td align="center"><sub><b>Emory University</b></sub></td>
+    <td align="center"><sub><b>Georgia Tech</b></sub></td>
+    <td align="center"><sub><b>KAUST</b></sub></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td align="center" width="170">
-      <a href="https://www.ox.ac.uk"><img src="assets/logos/oxford.png" height="72" alt="University of Oxford" /></a><br/><br/>
-      <sub><b>University of Oxford</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.ox.ac.uk"><img src="assets/logos/oxford.png" height="52" alt="University of Oxford" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.cam.ac.uk"><img src="assets/logos/cambridge.png" height="72" alt="University of Cambridge" /></a><br/><br/>
-      <sub><b>University of Cambridge</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.cam.ac.uk"><img src="assets/logos/cambridge.png" height="52" alt="University of Cambridge" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.u-bordeaux.fr"><img src="assets/logos/bordeaux.png" height="72" alt="Université de Bordeaux" /></a><br/><br/>
-      <sub><b>Université de Bordeaux</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.u-bordeaux.fr"><img src="assets/logos/bordeaux.png" height="64" alt="Université de Bordeaux" /></a>
     </td>
-    <td align="center" width="170">
-      <a href="https://www.shinyuri-hospital.com"><img src="assets/logos/shinyuri.png" width="150" alt="Shin-yurigaoka General Hospital" /></a><br/><br/>
-      <sub><b>Shin-yurigaoka General Hospital</b></sub>
+    <td align="center" width="190" height="96">
+      <a href="https://www.shinyuri-hospital.com"><img src="assets/logos/shinyuri.png" width="150" alt="Shin-yurigaoka General Hospital" /></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>University of Oxford</b></sub></td>
+    <td align="center"><sub><b>University of Cambridge</b></sub></td>
+    <td align="center"><sub><b>Université de Bordeaux</b></sub></td>
+    <td align="center"><sub><b>Shin-yurigaoka General Hospital</b></sub></td>
   </tr>
 </table>
 </div>
