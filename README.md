@@ -89,7 +89,7 @@ Full publication list on my [website](https://oussamabatouche.com/publications) 
       <a href="https://www.cam.ac.uk"><img src="assets/logos/cambridge.png" height="52" alt="University of Cambridge" /></a>
     </td>
     <td align="center" width="190" height="96">
-      <a href="https://www.u-bordeaux.fr"><img src="assets/logos/bordeaux.png" height="64" alt="Université de Bordeaux" /></a>
+      <a href="https://www.u-bordeaux.fr"><img src="assets/logos/bordeaux.png" height="40" alt="Université de Bordeaux" /></a>
     </td>
     <td align="center" width="190" height="96">
       <a href="https://www.shinyuri-hospital.com"><img src="assets/logos/shinyuri.png" width="150" alt="Shin-yurigaoka General Hospital" /></a>
