@@ -45,7 +45,52 @@ Full publication list on my [website](https://oussamabatouche.com) and [ORCID](h
 
 **In collaboration with**
 
-<a href="https://www.helsinki.fi"><img src="https://www.google.com/s2/favicons?domain=www.helsinki.fi&sz=64" width="36" alt="University of Helsinki" title="University of Helsinki" /></a>&nbsp;&nbsp; <a href="https://www.aalto.fi"><img src="https://www.google.com/s2/favicons?domain=aalto.fi&sz=64" width="36" alt="Aalto University" title="Aalto University" /></a>&nbsp;&nbsp; <a href="https://www.emory.edu"><img src="https://www.google.com/s2/favicons?domain=emory.edu&sz=64" width="36" alt="Emory University" title="Emory University" /></a>&nbsp;&nbsp; <a href="https://www.gatech.edu"><img src="https://www.google.com/s2/favicons?domain=gatech.edu&sz=64" width="36" alt="Georgia Tech" title="Georgia Tech" /></a>&nbsp;&nbsp; <a href="https://www.kaust.edu.sa"><img src="https://www.google.com/s2/favicons?domain=kaust.edu.sa&sz=64" width="36" alt="KAUST" title="KAUST" /></a>&nbsp;&nbsp; <a href="https://www.ox.ac.uk"><img src="https://www.google.com/s2/favicons?domain=ox.ac.uk&sz=64" width="36" alt="University of Oxford" title="University of Oxford" /></a>&nbsp;&nbsp; <a href="https://www.cam.ac.uk"><img src="https://www.google.com/s2/favicons?domain=cam.ac.uk&sz=64" width="36" alt="University of Cambridge" title="University of Cambridge" /></a>&nbsp;&nbsp; <a href="https://www.u-bordeaux.fr"><img src="https://www.google.com/s2/favicons?domain=u-bordeaux.fr&sz=64" width="36" alt="Université de Bordeaux" title="Université de Bordeaux" /></a>&nbsp;&nbsp; <a href="https://www.shinyuri-hospital.com"><img src="https://www.google.com/s2/favicons?domain=www.shinyuri-hospital.com&sz=64" width="36" alt="Shin-yurigaoka General Hospital" title="Shin-yurigaoka General Hospital" /></a>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://www.helsinki.fi"><img src="assets/logos/helsinki.png" height="72" alt="University of Helsinki" /></a><br/><br/>
+      <sub><b>University of Helsinki</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.aalto.fi"><img src="assets/logos/aalto.png" height="72" alt="Aalto University" /></a><br/><br/>
+      <sub><b>Aalto University</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.emory.edu"><img src="assets/logos/emory.png" height="72" alt="Emory University" /></a><br/><br/>
+      <sub><b>Emory University</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.gatech.edu"><img src="assets/logos/gatech.png" height="72" alt="Georgia Tech" /></a><br/><br/>
+      <sub><b>Georgia Tech</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.kaust.edu.sa"><img src="assets/logos/kaust.png" height="60" alt="KAUST" /></a><br/><br/>
+      <sub><b>KAUST</b></sub>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://www.ox.ac.uk"><img src="assets/logos/oxford.png" height="72" alt="University of Oxford" /></a><br/><br/>
+      <sub><b>University of Oxford</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.cam.ac.uk"><img src="assets/logos/cambridge.png" height="72" alt="University of Cambridge" /></a><br/><br/>
+      <sub><b>University of Cambridge</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.u-bordeaux.fr"><img src="assets/logos/bordeaux.png" height="72" alt="Université de Bordeaux" /></a><br/><br/>
+      <sub><b>Université de Bordeaux</b></sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.shinyuri-hospital.com"><img src="assets/logos/shinyuri.png" width="150" alt="Shin-yurigaoka General Hospital" /></a><br/><br/>
+      <sub><b>Shin-yurigaoka General Hospital</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br/>
 
