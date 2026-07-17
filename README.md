@@ -65,17 +65,6 @@ Full publication list on my [website](https://oussamabatouche.com) and [ORCID](h
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OussamaBatouche&show_icons=true&hide_border=true&bg_color=fbfcfe&title_color=f29105&text_color=172033&icon_color=f29105&border_color=e6e8ec" alt="GitHub stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaBatouche&layout=compact&hide_border=true&bg_color=fbfcfe&title_color=f29105&text_color=172033&border_color=e6e8ec" alt="Top languages" height="160" />
-
-</div>
-
-<br/>
-
 ## Get in Touch
 
 - **Website** — [oussamabatouche.com](https://oussamabatouche.com)
