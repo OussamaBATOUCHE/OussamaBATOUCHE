@@ -1,0 +1,13 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oussama Batouche — Data Scientist and Software Engineer">
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#fbfcfe" stroke="#e6e8ec" stroke-width="2"/>
+  <!-- name -->
+  <text x="70" y="110" font-family="'Source Serif 4', Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#172033">Oussama Batouche</text>
+  <!-- amber accent bar -->
+  <rect x="72" y="132" width="56" height="6" rx="3" fill="#f29105"/>
+  <!-- subtitle -->
+  <text x="72" y="180" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="500" fill="#4b5563">Data Scientist &amp; Software Engineer</text>
+  <!-- tagline -->
+  <text x="72" y="220" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="19" font-weight="400" fill="#6b7280">Building the next generation of AI for the Quantum era.</text>
+  <!-- meta line -->
+  <text x="72" y="258" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="500" fill="#9ca3af">Helsinki, Finland  &#183;  PhD, University of Helsinki  &#183;  MTS @ QuTwo</text>
+</svg>
