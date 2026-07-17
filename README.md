@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%" alt="Oussama Batouche — Data Scientist & Software Engineer" />
+<img src="assets/banner-header.svg" width="100%" alt="Oussama Batouche — Applied Scientist (AI/ML)" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a data scientist and software engineer based in Helsinki, working at the intersection of **artificial intelligence, healthcare, and quantum computing**.
+I'm an applied scientist (AI/ML) based in Helsinki, working at the intersection of **artificial intelligence, healthcare, and quantum computing**.
 
 - Member of Technical Staff at **[QuTwo](https://oussamabatouche.com)**, working on next-generation AI for the Quantum era.
 - **PhD, University of Helsinki** — computational methods to analyse and improve prostate cancer care using AI, machine learning, statistics, digital pathology, and real-world clinical data.
