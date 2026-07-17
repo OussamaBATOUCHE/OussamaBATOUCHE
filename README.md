@@ -4,10 +4,7 @@
 
 <br/>
 
-<a href="https://oussamabatouche.com"><img src="https://img.shields.io/badge/Website-f29105?style=flat-square&logoColor=white" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/oussama-batouche"><img src="https://img.shields.io/badge/LinkedIn-172033?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://orcid.org/0000-0003-4181-9891"><img src="https://img.shields.io/badge/ORCID-172033?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-172033?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://oussamabatouche.com"><img src="https://img.shields.io/badge/Website-f29105?style=flat-square&logoColor=white" alt="Website" /></a> <a href="https://www.linkedin.com/in/oussama-batouche"><img src="https://img.shields.io/badge/LinkedIn-172033?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://orcid.org/0000-0003-4181-9891"><img src="https://img.shields.io/badge/ORCID-172033?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a> <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-172033?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 
 </div>
 
@@ -30,15 +27,8 @@ I'm an applied scientist (AI/ML) based in Helsinki, working at the intersection 
 
 **Working with**
 
-<img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/R-172033?style=flat-square&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Jupyter-172033?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-172033?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/pandas-172033?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Jupyter-172033?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/R-172033?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/TypeScript-172033?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Docker-172033?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-172033?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Ansible-172033?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/NVIDIA-172033?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" /> <img src="https://img.shields.io/badge/AMD-172033?style=flat-square&logo=amd&logoColor=white" alt="AMD" />
 
-I've trained deep learning models on the **LUMI supercomputer** and build end-to-end pipelines — from raw microscopy images to production-ready classifiers.
 
 <br/>
 
@@ -52,6 +42,10 @@ My work centres on computational pathology and clinical outcome modelling for pr
 - **A joint frailty model for time-to-treatment and biochemical recurrence in prostate cancer** · *Informatics in Medicine Unlocked, 2025*
 
 Full publication list on my [website](https://oussamabatouche.com) and [ORCID](https://orcid.org/0000-0003-4181-9891).
+
+**In collaboration with**
+
+<a href="https://www.helsinki.fi"><img src="https://www.google.com/s2/favicons?domain=www.helsinki.fi&sz=64" width="36" alt="University of Helsinki" title="University of Helsinki" /></a>&nbsp;&nbsp; <a href="https://www.aalto.fi"><img src="https://www.google.com/s2/favicons?domain=aalto.fi&sz=64" width="36" alt="Aalto University" title="Aalto University" /></a>&nbsp;&nbsp; <a href="https://www.emory.edu"><img src="https://www.google.com/s2/favicons?domain=emory.edu&sz=64" width="36" alt="Emory University" title="Emory University" /></a>&nbsp;&nbsp; <a href="https://www.gatech.edu"><img src="https://www.google.com/s2/favicons?domain=gatech.edu&sz=64" width="36" alt="Georgia Tech" title="Georgia Tech" /></a>&nbsp;&nbsp; <a href="https://www.kaust.edu.sa"><img src="https://www.google.com/s2/favicons?domain=kaust.edu.sa&sz=64" width="36" alt="KAUST" title="KAUST" /></a>&nbsp;&nbsp; <a href="https://www.ox.ac.uk"><img src="https://www.google.com/s2/favicons?domain=ox.ac.uk&sz=64" width="36" alt="University of Oxford" title="University of Oxford" /></a>&nbsp;&nbsp; <a href="https://www.cam.ac.uk"><img src="https://www.google.com/s2/favicons?domain=cam.ac.uk&sz=64" width="36" alt="University of Cambridge" title="University of Cambridge" /></a>&nbsp;&nbsp; <a href="https://www.u-bordeaux.fr"><img src="https://www.google.com/s2/favicons?domain=u-bordeaux.fr&sz=64" width="36" alt="Université de Bordeaux" title="Université de Bordeaux" /></a>&nbsp;&nbsp; <a href="https://www.shinyuri-hospital.com"><img src="https://www.google.com/s2/favicons?domain=www.shinyuri-hospital.com&sz=64" width="36" alt="Shin-yurigaoka General Hospital" title="Shin-yurigaoka General Hospital" /></a>
 
 <br/>
 
