@@ -15,8 +15,8 @@
 I'm an applied scientist (AI/ML) based in Helsinki, working at the intersection of **artificial intelligence, healthcare, and quantum computing**.
 
 - Member of Technical Staff at **[QuTwo](https://oussamabatouche.com)**, working on next-generation AI for the Quantum era.
-- **PhD, University of Helsinki** — computational methods to analyse and improve prostate cancer care using AI, machine learning, statistics, digital pathology, and real-world clinical data.
-- Former **Data Scientist at HUCC**, building computational tools for digital pathology and clinical outcome modelling.
+- **PhD, [University of Helsinki](https://helsinki.fi)** — computational methods to analyse and improve prostate cancer care using AI, machine learning, statistics, digital pathology, and real-world clinical data.
+- Former **Data Scientist at [HUCC](https://hucc.fi)**, building computational tools for digital pathology and clinical outcome modelling.
 - I care about turning messy, real-world medical data into models that clinicians can trust.
 
 <br/>
