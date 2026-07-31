@@ -94,12 +94,16 @@ Full publication list on my [website](https://oussamabatouche.com/publications) 
     <td align="center" width="190" height="96">
       <a href="https://www.shinyuri-hospital.com"><img src="assets/logos/shinyuri.png" width="150" alt="Shin-yurigaoka General Hospital" /></a>
     </td>
+    <td align="center" width="190" height="96">
+      <a href="https://www.mskcc.org"><img src="assets/logos/mskcc.png" width="150" alt="Memorial Sloan Kettering Cancer Center" /></a>
+    </td>
   </tr>
   <tr>
     <td align="center"><sub><b>University of Oxford</b></sub><br/><sub>Oxford, United Kingdom</sub></td>
     <td align="center"><sub><b>University of Cambridge</b></sub><br/><sub>Cambridge, United Kingdom</sub></td>
     <td align="center"><sub><b>Université de Bordeaux</b></sub><br/><sub>Bordeaux, France</sub></td>
     <td align="center"><sub><b>Shin-yurigaoka General Hospital</b></sub><br/><sub>Kawasaki, Japan</sub></td>
+    <td align="center"><sub><b>Memorial Sloan Kettering Cancer Center</b></sub><br/><sub>New York, NY, USA</sub></td>
   </tr>
 </table>
 </div>
